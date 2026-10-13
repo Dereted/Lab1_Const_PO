@@ -1,0 +1,30 @@
+C:\Users\А\source\repos\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.csproj.AssemblyReference.cache
+C:\Users\А\source\repos\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab__1_KonsPO.Form1.resources
+C:\Users\А\source\repos\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab__1_KonsPO.Properties.Resources.resources
+C:\Users\А\source\repos\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.csproj.GenerateResource.cache
+C:\Users\А\source\repos\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.csproj.CoreCompileInputs.cache
+C:\Users\А\source\repos\Lab  1 KonsPO\Lab  1 KonsPO\bin\Debug\Lab  1 KonsPO.exe.config
+C:\Users\А\source\repos\Lab  1 KonsPO\Lab  1 KonsPO\bin\Debug\Lab  1 KonsPO.exe
+C:\Users\А\source\repos\Lab  1 KonsPO\Lab  1 KonsPO\bin\Debug\Lab  1 KonsPO.pdb
+C:\Users\А\source\repos\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.exe
+C:\Users\А\source\repos\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.pdb
+F:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\bin\Debug\Lab  1 KonsPO.exe.config
+F:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\bin\Debug\Lab  1 KonsPO.exe
+F:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\bin\Debug\Lab  1 KonsPO.pdb
+F:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.csproj.AssemblyReference.cache
+F:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab__1_KonsPO.Form1.resources
+F:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab__1_KonsPO.Properties.Resources.resources
+F:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.csproj.GenerateResource.cache
+F:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.csproj.CoreCompileInputs.cache
+F:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.exe
+F:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.pdb
+D:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\bin\Debug\Lab  1 KonsPO.exe.config
+D:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\bin\Debug\Lab  1 KonsPO.exe
+D:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\bin\Debug\Lab  1 KonsPO.pdb
+D:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.csproj.AssemblyReference.cache
+D:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab__1_KonsPO.Form1.resources
+D:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab__1_KonsPO.Properties.Resources.resources
+D:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.csproj.GenerateResource.cache
+D:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.csproj.CoreCompileInputs.cache
+D:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.exe
+D:\Конструирование программного обеспечения\Lab1\Lab  1 KonsPO\Lab  1 KonsPO\obj\Debug\Lab  1 KonsPO.pdb
